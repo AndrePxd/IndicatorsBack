@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/indicators
+Content-Type: application/json
+Accept: application/json
+
+{
+    "nameKri": "Kri dos",
+    "value1": 2,
+    "value2": 200
+}
